@@ -97,7 +97,7 @@ blockquote {
     border-left: 5px solid #3498DB;
     padding: 1rem 0.8rem 0.2rem 0.8rem;
     color: #666;
-    background-color: rgba(66, 185, 131, .1);
+    background-color: #EBEDEF 
 }
 
 pre {
@@ -1958,6 +1958,7 @@ footer .copy-right {
 }
 
 .caption {
+    display: none;
     text-align: center;
     margin: 0 auto 15px auto;
 }
